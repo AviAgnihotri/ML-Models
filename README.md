@@ -1,4 +1,4 @@
-Welcome to the ML Models Folder - a collection of various machine learning models for different use cases.
+# Welcome to the ML Models Folder - a collection of various machine learning models for different use cases.
 
 Here is a brief description of each model available in this folder:
 1. CO2 Emission Predictor:
