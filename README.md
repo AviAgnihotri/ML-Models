@@ -13,3 +13,6 @@ This project aims to predict the species of a bird based on its features like be
 
 **_4. Finding Hot Zone of Terrorism:_**
 This project aims to find the hot zones of terrorism by analyzing terrorist attacks around the world. The project uses clustering algorithms like K-Means and DBSCAN to group similar attacks together and identify hot zones. The project is built using Python and popular libraries like NumPy, Pandas, Matplotlib, and Scikit-learn.
+
+**_5. Language Translation using IBM Watson:_**
+A cloud-based machine learning service that uses neural networks to automatically translate text from one language to another. This can be especially useful in applications where multilingual communication is required, such as chatbots, customer service systems, or global e-commerce platforms.
