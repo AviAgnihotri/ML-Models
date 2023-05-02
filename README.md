@@ -16,3 +16,6 @@ This project aims to find the hot zones of terrorism by analyzing terrorist atta
 
 **_5. Language Translation using IBM Watson:_**
 A cloud-based machine learning service that uses neural networks to automatically translate text from one language to another. This can be especially useful in applications where multilingual communication is required, such as chatbots, customer service systems, or global e-commerce platforms.
+
+**_6. IPL Win Probability Predictor:_**
+The IPL Win Probability Predictor is a machine learning program that predicts the win probability of a team in an Indian Premier League (IPL) match based on historical data. It uses a supervised learning algorithm called logistic regression to model the relationship between various features of a cricket match and the probability of a team winning.
