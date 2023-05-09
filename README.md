@@ -19,3 +19,6 @@ A cloud-based machine learning service that uses neural networks to automaticall
 
 **_6. IPL Win Probability Predictor:_**
 The IPL Win Probability Predictor is a machine learning program that predicts the win probability of a team in an Indian Premier League (IPL) match based on historical data. It uses a supervised learning algorithm called logistic regression to model the relationship between various features of a cricket match and the probability of a team winning.
+
+**_7. Bank Customer Churn Predictor Model:_**
+The model is built using H2O AutoML, a powerful automated machine learning library that simplifies the process of training and selecting the best model for a given dataset. We used H2O AutoML to automatically train and select the best model for this dataset. AutoML searches for the best combination of algorithms and hyperparameters to optimize the model's performance. We used a 5-fold cross-validation to evaluate the model's performance on unseen data.
