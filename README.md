@@ -22,3 +22,6 @@ The IPL Win Probability Predictor is a machine learning program that predicts th
 
 **_7. Bank Customer Churn Predictor Model:_**
 The model is built using H2O AutoML, a powerful automated machine learning library that simplifies the process of training and selecting the best model for a given dataset. We used H2O AutoML to automatically train and select the best model for this dataset. AutoML searches for the best combination of algorithms and hyperparameters to optimize the model's performance. We used a 5-fold cross-validation to evaluate the model's performance on unseen data.
+
+**_8. PAN Crad Tampering Detector:_**
+The purpose of this project is to detect tampering of PAN card using computer vision. This project will help different organization in detecting whether the Id i.e. the PAN card provided to them by thier employees or customers or anyone is original or not.
