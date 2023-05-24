@@ -25,3 +25,6 @@ The model is built using H2O AutoML, a powerful automated machine learning libra
 
 **_8. PAN Card Tampering Detector:_**
 The purpose of this project is to detect tampering of PAN card using computer vision. This project will help different organization in detecting whether the Id i.e. the PAN card provided to them by thier employees or customers or anyone is original or not.
+
+**_9. Image Watermarking:_**
+A powerful and efficient machine learning model for image watermarking. With the rapid growth of digital content, protecting intellectual property and ensuring the ownership of digital images has become increasingly important. This model provides a robust solution to embed and extract watermarks from images seamlessly, offering a reliable method to protect valuable visual assets.
