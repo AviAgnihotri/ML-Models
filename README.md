@@ -29,5 +29,5 @@ The purpose of this project is to detect tampering of PAN card using computer vi
 **_9. Image Watermarking:_**
 A powerful and efficient machine learning model for image watermarking. With the rapid growth of digital content, protecting intellectual property and ensuring the ownership of digital images has become increasingly important. This model provides a robust solution to embed and extract watermarks from images seamlessly, offering a reliable method to protect valuable visual assets.
 
-**_10. Text Extraction From Images Application:_**
-A powerful and versatile tool designed to extract textual information from images. This application utilizes advanced computer vision and optical character recognition (OCR) techniques to accurately identify and extract text from various types of images, including scanned documents, photographs, screenshots and more.
+**_10. Text Extraction From Images Model:_**
+A powerful and versatile tool designed to extract textual information from images. This model utilizes advanced computer vision and optical character recognition (OCR) techniques to accurately identify and extract text from various types of images, including scanned documents, photographs, screenshots and more.
